@@ -10,7 +10,7 @@ import JobDetailsView from "../views/jobs/JobDetailsView.vue";
 const routes = [
   {
     path: "/",
-    name: "home",
+    name: "Home",
     component: HomeView,
   },
   {
